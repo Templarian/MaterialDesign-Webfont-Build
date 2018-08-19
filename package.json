@@ -1,0 +1,29 @@
+{
+  "name": "@mdi/font-build",
+  "version": "0.1.0",
+  "description": "Build tool for the Webfont.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/MaterialDesign-Webfont-Build.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "Icons",
+    "Webfont"
+  ],
+  "author": "Austin Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/MaterialDesign-Webfont-Build/issues"
+  },
+  "homepage": "https://github.com/Templarian/MaterialDesign-Webfont-Build#readme",
+  "dependencies": {
+    "@mdi/svg": "^2.6.95",
+    "@mdi/util": "^0.1.2"
+  }
+}
