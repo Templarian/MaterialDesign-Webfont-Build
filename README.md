@@ -4,7 +4,7 @@ Custom Builds of the Webfont.
 
 ## Usage
 
-Clone repo, and run `npm install`.
+Clone repo, run `npm install`, and create (empty) `icons` folder.
 
 ## Commands
 
